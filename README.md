@@ -12,9 +12,11 @@ PR's are welcome this is the full code running the extension.
 
 Install the Chrome Extension here [https://chrome.google.com/webstore/detail/acronyms-seriously-suck/jghoggcaajekanpopmbjbnkankckbfcj](https://chrome.google.com/webstore/detail/acronyms-seriously-suck/jghoggcaajekanpopmbjbnkankckbfcj).
 
+### How it works video:
+
 [![How it works video](https://img.youtube.com/vi/fZFKa2VwQaU/0.jpg)](https://www.youtube.com/watch?v=fZFKa2VwQaU)
 
-### Procedures:
+### Information:
 
 Recently started working for a larger company after working for myself for a while and was completely snowed under with Acronyms and it is embarrassing to ask. Needed to brush up on ReactJS and ExpressJS so built this as a little side project.
 
