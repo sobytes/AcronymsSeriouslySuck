@@ -12,7 +12,7 @@ PR's are welcome this is the full code running the extension.
 
 Install the Chrome Extension here [https://chrome.google.com/webstore/detail/acronyms-seriously-suck/jghoggcaajekanpopmbjbnkankckbfcj](https://chrome.google.com/webstore/detail/acronyms-seriously-suck/jghoggcaajekanpopmbjbnkankckbfcj).
 
-
+[![How it works video](https://img.youtube.com/vi/fZFKa2VwQaU/0.jpg)](https://www.youtube.com/watch?v=fZFKa2VwQaU)
 
 ### Procedures:
 
